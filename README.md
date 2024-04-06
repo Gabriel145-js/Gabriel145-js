@@ -5,7 +5,7 @@
 - 📫 How to reach me LinkedIn: [https://www.linkedin.com/in/gabriel-maschio-zaparolli-8703ab249/]
                       Email: [gabriel.m.zaparolli@gmail.com]
                       whatsapp: [https://wa.me/5554991529657]
-- ⚡ Fun fact: Gosto de muito de me manter sempre estudando para novos conheicmentos, procuro desafios cada vez que me aprimoro mais em uma tecnologia, também gosto muito de ler e escutar musica.
+- ⚡ Fun fact: Gosto de muito de me manter sempre estudando para novos conhecimentos, procuro desafios cada vez que me aprimoro mais em uma tecnologia, também gosto muito de ler e escutar musica.
 
 <!---
 Gabriel145-js/Gabriel145-js is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
