@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gabriel145-js
 - 👀 I’m interested in Desenvolvimento de Software
-- 🌱 I’m currently learning Desenvolvimneto Web, tenho conhecimentos em HTML, CSS, JavaScript, NodeJs e MySql.
+- 🌱 I’m currently learning Desenvolvimneto Web, tenho conhecimentos em HTML, CSS, Sass, JavaScript, NodeJs e MySql.
 - 💞️ I’m looking to collaborate on: Se você compartilha uma paixão semelhante ou tem um projeto interessante em mente, adoraria colaborar com você. Sinta-se à vontade para entrar em contato e vamos criar algo incrível juntos!
 - 📫 How to reach me LinkedIn: [https://www.linkedin.com/in/gabriel-maschio-zaparolli-8703ab249/]
                       Email: [gabriel.m.zaparolli@gmail.com]
