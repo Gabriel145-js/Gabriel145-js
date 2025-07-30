@@ -1,6 +1,6 @@
 ## 👋 Olá, meu nome é Gabriel Maschio Zaparolli
 
-Sou apaixonado por **Desenvolvimento de Software**, com foco em soluções práticas, escaláveis e de alta qualidade. Tenho experiência em criação de interfaces modernas, integração com serviços em nuvem e manipulação de dados em tempo real. Busco constantemente evoluir como desenvolvedor, estudando novas tecnologias e aplicando boas práticas em projetos reais.
+Sou apaixonado por **Desenvolvimento de Software**, com foco em soluções práticas, escaláveis e de alta qualidade. Tenho experiência em criação de interfaces modernas, integração com banco de dados e manipulação de dados em tempo real. Busco constantemente evoluir como desenvolvedor, estudando novas tecnologias e aplicando boas práticas em projetos reais.
 
 ---
 
